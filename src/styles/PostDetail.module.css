@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.imageWrapper {
+  display: flex;
+  justify-content: center;
+  opacity: 0.8;
+}
